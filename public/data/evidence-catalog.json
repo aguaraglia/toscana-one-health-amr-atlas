@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "edition": "toscana_amr_atlas",
+  "records": [
+    {
+      "id": "ar_iss_2024_toscana",
+      "title": "AR-ISS 2024 - Toscana",
+      "publisher": "Istituto Superiore di Sanita",
+      "evidence_type": "human_amr_regional",
+      "geography": "Toscana",
+      "period": "2024",
+      "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+      "data_file": "public/data/ar_iss_2024_toscana.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Copertura 97,1%, rete regionale. MRSA 19,3% (277/1.436), VRE-faecium 35,8% (186/520), CREC 27,2% (709/2.608), CRKP 18,4% (312/1.692), CRPA 13,0% (100/769), CRAS 62,8% (140/223); nessun downscaling."
+    },
+    {
+      "id": "aifa_opendata_2024_toscana_j01",
+      "title": "AIFA Open Data 2024 - Toscana, antibatterici J01",
+      "publisher": "Agenzia Italiana del Farmaco",
+      "evidence_type": "human_antimicrobial_use",
+      "geography": "Toscana",
+      "period": "2024",
+      "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+      "data_file": "public/data/aifa_opendata_2024_toscana_j01.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Convenzionata 3.804.978 confezioni, 29,28 milioni di euro; acquisti diretti 1.354.099 confezioni, 17,91 milioni di euro. Consumo, non resistenza."
+    }
+  ]
+}

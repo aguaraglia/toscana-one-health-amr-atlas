@@ -1,0 +1,391 @@
+{
+ "aoup_cisanello": {
+  "query": "Ospedale di Cisanello, Pisa",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 82153078,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9243476,
+    "lat": "43.7052512",
+    "lon": "10.4434125",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.19938740066310082,
+    "addresstype": "amenity",
+    "name": "Ospedale Cisanello",
+    "display_name": "Ospedale Cisanello, 2, Via Pietro Trivella, Cisanello, Pisa, Toscana, 56124, Italia",
+    "boundingbox": [
+     "43.6998607",
+     "43.7106625",
+     "10.4390443",
+     "10.4452820"
+    ]
+   },
+   {
+    "place_id": 81995255,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 490166236,
+    "lat": "43.7005231",
+    "lon": "10.4377037",
+    "category": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.05340594567788201,
+    "addresstype": "unclassified",
+    "name": "Rotatoria Suore Francescane Ospedale di Santa Chiara",
+    "display_name": "Rotatoria Suore Francescane Ospedale di Santa Chiara, Oratoio, Ospedaletto, Pisa, Toscana, 56124, Italia",
+    "boundingbox": [
+     "43.7003679",
+     "43.7006947",
+     "10.4374780",
+     "10.4379292"
+    ]
+   },
+   {
+    "place_id": 81500781,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 96413114,
+    "lat": "43.7080488",
+    "lon": "10.4435947",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 7.261234454866892e-05,
+    "addresstype": "amenity",
+    "name": "Cappella ospedale Cisanello",
+    "display_name": "Cappella ospedale Cisanello, Piazza Nuovo Santa Chiara, Cisanello, Pisa, Toscana, 56124, Italia",
+    "boundingbox": [
+     "43.7080118",
+     "43.7080858",
+     "10.4435131",
+     "10.4436763"
+    ]
+   }
+  ]
+ },
+ "aoup_santachiara": {
+  "query": "Ospedale Santa Chiara, Pisa",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 82003571,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 701045439,
+    "lat": "43.7204843",
+    "lon": "10.3926131",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.2713361062662927,
+    "addresstype": "amenity",
+    "name": "Polo Ospedaliero \"Santa Chiara\"",
+    "display_name": "Polo Ospedaliero \"Santa Chiara\", Via Angelo Galli Tassi, Santa Maria, Porta a Lucca, Pisa, Toscana, 56126, Italia",
+    "boundingbox": [
+     "43.7185614",
+     "43.7227158",
+     "10.3903500",
+     "10.3958511"
+    ]
+   },
+   {
+    "place_id": 81995255,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 490166236,
+    "lat": "43.7005231",
+    "lon": "10.4377037",
+    "category": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.05340594567788201,
+    "addresstype": "unclassified",
+    "name": "Rotatoria Suore Francescane Ospedale di Santa Chiara",
+    "display_name": "Rotatoria Suore Francescane Ospedale di Santa Chiara, Oratoio, Ospedaletto, Pisa, Toscana, 56124, Italia",
+    "boundingbox": [
+     "43.7003679",
+     "43.7006947",
+     "10.4374780",
+     "10.4379292"
+    ]
+   }
+  ]
+ },
+ "meyer": {
+  "query": "Ospedale Pediatrico Meyer, Firenze",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 81632269,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 162433225,
+    "lat": "43.8102004",
+    "lon": "11.2524714",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.29754280206928735,
+    "addresstype": "amenity",
+    "name": "Ospedale Pediatrico Meyer",
+    "display_name": "Ospedale Pediatrico Meyer, 24, Viale Gaetano Pieraccini, Quartiere 5, Serpiolle, Firenze, Toscana, 50139, Italia",
+    "boundingbox": [
+     "43.8076583",
+     "43.8127233",
+     "11.2499784",
+     "11.2549254"
+    ]
+   },
+   {
+    "place_id": 81943333,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2173017,
+    "lat": "43.8110935",
+    "lon": "11.2528006",
+    "category": "building",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 8.105668726630072e-05,
+    "addresstype": "building",
+    "name": "Ospedale pediatrico Meyer",
+    "display_name": "Ospedale pediatrico Meyer, Via di Careggi, Quartiere 5, Serpiolle, Firenze, Toscana, 50139, Italia",
+    "boundingbox": [
+     "43.8100530",
+     "43.8121391",
+     "11.2508774",
+     "11.2544309"
+    ]
+   },
+   {
+    "place_id": 81845960,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 715692583,
+    "lat": "43.8100504",
+    "lon": "11.2502939",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.105668726630072e-05,
+    "addresstype": "highway",
+    "name": "Ospedale Pediatrico Meyer",
+    "display_name": "Ospedale Pediatrico Meyer, Viale Gaetano Pieraccini, Quartiere 5, Serpiolle, Firenze, Toscana, 50134, Italia",
+    "boundingbox": [
+     "43.8100004",
+     "43.8101004",
+     "11.2502439",
+     "11.2503439"
+    ]
+   }
+  ]
+ },
+ "careggi": {
+  "query": "Ospedale di Careggi, Firenze",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 82023388,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25293016,
+    "lat": "43.8084224",
+    "lon": "11.2474264",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.28779482241276744,
+    "addresstype": "amenity",
+    "name": "Azienda Ospedaliera Universitaria di Careggi",
+    "display_name": "Azienda Ospedaliera Universitaria di Careggi, 3, Largo Giovanni Alessandro Brambilla, Quartiere 5, Firenze, Toscana, 50134, Italia",
+    "boundingbox": [
+     "43.8033550",
+     "43.8137105",
+     "11.2422454",
+     "11.2515208"
+    ]
+   }
+  ]
+ },
+ "aous_scotte": {
+  "query": "Policlinico Santa Maria alle Scotte, Siena",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 81700232,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 47120406,
+    "lat": "43.3435671",
+    "lon": "11.3296733",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.175173571369525e-05,
+    "addresstype": "amenity",
+    "name": "Policlinico Santa Maria alle Scotte",
+    "display_name": "Policlinico Santa Maria alle Scotte, 16, Viale Mario Bracci, San Miniato, Siena, Toscana, 53100, Italia",
+    "boundingbox": [
+     "43.3410794",
+     "43.3460016",
+     "11.3259234",
+     "11.3342977"
+    ]
+   }
+  ]
+ },
+ "sanluca_lucca": {
+  "query": "Ospedale San Luca, Lucca",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 82158324,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 182256882,
+    "lat": "43.8429301",
+    "lon": "10.5323849",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.883268482485722e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale San Luca",
+    "display_name": "Ospedale San Luca, 556, Via Guglielmo Lippi Francesconi, Tempagnano di Lunata, Lucca, Toscana, 55100, Italia",
+    "boundingbox": [
+     "43.8415228",
+     "43.8440685",
+     "10.5301598",
+     "10.5359582"
+    ]
+   },
+   {
+    "place_id": 81918513,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11527625773,
+    "lat": "43.8420022",
+    "lon": "10.5337241",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.883268482485722e-05,
+    "addresstype": "highway",
+    "name": "Ospedale San Luca",
+    "display_name": "Ospedale San Luca, Via Guglielmo Lippi Francesconi, Tempagnano di Lunata, Lucca, Toscana, 55100, Italia",
+    "boundingbox": [
+     "43.8419522",
+     "43.8420522",
+     "10.5336741",
+     "10.5337741"
+    ]
+   }
+  ]
+ },
+ "vet_pisa": {
+  "query": "Ospedale Didattico Veterinario, San Piero a Grado, Pisa",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 82020311,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 129900519,
+    "lat": "43.6634380",
+    "lon": "10.3520900",
+    "category": "amenity",
+    "type": "veterinary",
+    "place_rank": 30,
+    "importance": 7.261234454866892e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Didattico Veterinario",
+    "display_name": "Ospedale Didattico Veterinario, Via Vecchia Livornese, La Bigattiera, San Piero a Grado, Pisa, Toscana, 56100, Italia",
+    "boundingbox": [
+     "43.6632698",
+     "43.6636059",
+     "10.3514853",
+     "10.3526947"
+    ]
+   }
+  ]
+ },
+ "acquario_livorno": {
+  "query": "Acquario di Livorno",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 82184919,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 58670208,
+    "lat": "43.5355401",
+    "lon": "10.2991301",
+    "category": "tourism",
+    "type": "aquarium",
+    "place_rank": 30,
+    "importance": 0.2521482229732802,
+    "addresstype": "tourism",
+    "name": "Acquario comunale Diacinto Cestoni",
+    "display_name": "Acquario comunale Diacinto Cestoni, 1, Terrazza Mascagni, Consiglio di Zona 3, Livorno, Toscana, 57127, Italia",
+    "boundingbox": [
+     "43.5352077",
+     "43.5359032",
+     "10.2987492",
+     "10.2997694"
+    ]
+   },
+   {
+    "place_id": 80940227,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12880584796,
+    "lat": "42.7539223",
+    "lon": "10.2497366",
+    "category": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.07194870560319186,
+    "addresstype": "tourism",
+    "name": "Acquario dell'Elba",
+    "display_name": "Acquario dell'Elba, Via di Segagnana, Bonalaccia-Filetto, Marina di Campo, Campo nell'Elba, Livorno, Toscana, 57034, Italia",
+    "boundingbox": [
+     "42.7538723",
+     "42.7539723",
+     "10.2496866",
+     "10.2497866"
+    ]
+   },
+   {
+    "place_id": 82024411,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11547114129,
+    "lat": "43.5586325",
+    "lon": "10.3322456",
+    "category": "amenity",
+    "type": "cafe",
+    "place_rank": 30,
+    "importance": 7.05630579079426e-05,
+    "addresstype": "amenity",
+    "name": "Bar acquario",
+    "display_name": "Bar acquario, Via Piero Donnini, Sorgenti, Consiglio di Zona 1, Livorno, Toscana, 57121, Italia",
+    "boundingbox": [
+     "43.5585825",
+     "43.5586825",
+     "10.3321956",
+     "10.3322956"
+    ]
+   }
+  ]
+ },
+ "dongnocchi_firenze": {
+  "query": "Fondazione Don Carlo Gnocchi, Firenze",
+  "status": 200,
+  "results": []
+ }
+}

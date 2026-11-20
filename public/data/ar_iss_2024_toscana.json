@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "toscana_amr_atlas",
+  "source_id": "ar_iss_2024_toscana",
+  "period": 2024,
+  "geography": "Toscana",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 97.1,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; la Toscana partecipa con la propria rete regionale (sistema SMART/ARS); serie 2015-2017 con pochi laboratori (salto di numerosità dal 2018)"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 1436,
+      "resistant": 277,
+      "percent": 19.3,
+      "ci95": "17.3-21.4"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 520,
+      "resistant": 186,
+      "percent": 35.8,
+      "ci95": "31.6-40.1"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 2608,
+      "resistant": 709,
+      "percent": 27.2,
+      "ci95": "25.5-28.9"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 1692,
+      "resistant": 312,
+      "percent": 18.4,
+      "ci95": "16.6-20.4"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 769,
+      "resistant": 100,
+      "percent": 13.0,
+      "ci95": "10.7-15.6"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 223,
+      "resistant": 140,
+      "percent": 62.8,
+      "ci95": "56.1-69.1"
+    }
+  ],
+  "trend_note": "Serie 2018-2024 nell'Appendice A: MRSA 28,7% (2018) -> 19,3% (2024); VRE-faecium 28,3% (2018) -> 35,8% (2024); CREC 35,7% (2018) -> 27,2% (2024); CRKP 30,8% (2018) -> 18,4% (2024); CRAS 72,7% (2018) -> 62,8% (2024).",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura) e Appendice A, Regione Toscana (p. 56 a stampa, p. 64 del PDF)",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-19",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}
